@@ -1,0 +1,21 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	background-color:#000;
+	font-family: 'Orbitron', sans-serif;
+}
+
+body{
+	height:100vh;
+}
+.digital{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	font-size:100px;
+	color:#17d4fe;
+	font-weight:900;
+	text-shadow:10px 10px 50px #17d4fe;
+}
